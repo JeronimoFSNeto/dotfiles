@@ -1,0 +1,11 @@
+vim.opt.number = true               -- Mostra número das linhas
+vim.opt.relativenumber = true      -- Números relativos para navegação
+vim.opt.tabstop = 2
+vim.opt.shiftwidth = 2
+vim.opt.expandtab = true
+vim.opt.smartindent = true
+vim.opt.termguicolors = true
+vim.opt.scrolloff = 8
+vim.opt.signcolumn = "yes"
+vim.opt.updatetime = 250
+vim.opt.clipboard = "unnamedplus"  -- Usa clipboard do sistema

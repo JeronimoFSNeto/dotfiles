@@ -1,8 +1,12 @@
 [user]
   name = Jerônimo Neto
-  email = seuemail@exemplo.com
+  email = jeronimofsneto@gmail.com
+[core]
+  editor = nvim
+  autocrlf = input
 [alias]
   co = checkout
   br = branch
   ci = commit
   st = status
+  cm = commit -m
